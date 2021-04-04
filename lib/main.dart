@@ -184,7 +184,7 @@ class _HomePageState extends State<HomePage> {
                                                   'Date: ${newsInApp[index].date}'),
                                               SizedBox(
                                                 height: 5.0,
-                                              ),
+                                              ), 
                                               Text('Full story at:'),
                                               SizedBox(
                                                 height: 5.0,
